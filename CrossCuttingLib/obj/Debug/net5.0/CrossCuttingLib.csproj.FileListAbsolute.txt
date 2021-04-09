@@ -1,0 +1,12 @@
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossCuttingLib.deps.json
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\ref\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossCuttingLib.pdb
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csprojAssemblyReference.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfoInputs.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfo.cs
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csproj.CoreCompileInputs.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\ref\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.pdb

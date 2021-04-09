@@ -1,0 +1,11 @@
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\bin\Debug\net5.0\DomainLib.deps.json
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\bin\Debug\net5.0\DomainLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\bin\Debug\net5.0\ref\DomainLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\bin\Debug\net5.0\DomainLib.pdb
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.AssemblyInfoInputs.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.AssemblyInfo.cs
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.csproj.CoreCompileInputs.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\ref\DomainLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.pdb
