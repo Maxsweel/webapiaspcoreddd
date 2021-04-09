@@ -1,4 +1,6 @@
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\DataLib.deps.json
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\DataLib.runtimeconfig.json
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\DataLib.runtimeconfig.dev.json
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\DataLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\ref\DataLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\bin\Debug\net5.0\DataLib.pdb
@@ -10,3 +12,4 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\obj\Debug\net5.0\DataLib.csproj
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\obj\Debug\net5.0\DataLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\obj\Debug\net5.0\ref\DataLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\obj\Debug\net5.0\DataLib.pdb
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DataLib\obj\Debug\net5.0\DataLib.genruntimeconfig.cache
