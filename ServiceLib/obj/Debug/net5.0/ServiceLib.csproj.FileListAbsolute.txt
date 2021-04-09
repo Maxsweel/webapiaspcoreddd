@@ -2,7 +2,6 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\bin\Debug\net5.0\ServiceLib.
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\bin\Debug\net5.0\ServiceLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\bin\Debug\net5.0\ref\ServiceLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\bin\Debug\net5.0\ServiceLib.pdb
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\obj\Debug\net5.0\ServiceLib.csprojAssemblyReference.cache
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\obj\Debug\net5.0\ServiceLib.GeneratedMSBuildEditorConfig.editorconfig
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\obj\Debug\net5.0\ServiceLib.AssemblyInfoInputs.cache
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\ServiceLib\obj\Debug\net5.0\ServiceLib.AssemblyInfo.cs

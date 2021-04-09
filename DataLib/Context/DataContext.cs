@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DataLib.Context
 {
-    class DataContext : DbContext
+    public class DataContext : DbContext
     {
         public DbSet<UserEntity> Users { get; set; }
 

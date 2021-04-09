@@ -11,7 +11,6 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\bin\Debug\net5.0\Microsoft.
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
