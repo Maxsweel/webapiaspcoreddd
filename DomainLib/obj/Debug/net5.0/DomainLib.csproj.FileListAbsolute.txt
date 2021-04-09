@@ -9,3 +9,4 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.cs
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\ref\DomainLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.pdb
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\DomainLib\obj\Debug\net5.0\DomainLib.csprojAssemblyReference.cache
