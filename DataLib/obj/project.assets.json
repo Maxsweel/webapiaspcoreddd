@@ -1541,6 +1541,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "DomainLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DomainLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLib.dll": {}
+        }
       }
     }
   },
@@ -5853,10 +5863,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "DomainLib/1.0.0": {
+      "type": "project",
+      "path": "../DomainLib/DomainLib.csproj",
+      "msbuildProject": "../DomainLib/DomainLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "DomainLib >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.5",
@@ -5894,7 +5910,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DomainLib\\DomainLib.csproj": {
+              "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DomainLib\\DomainLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
