@@ -11,6 +11,8 @@ namespace DataLib.Context
 
         public DataContext (DbContextOptions<DataContext> options) : base(options) 
         {
+            // Database.EnsureCreated();//Se não tiver o banco ele será criado na primeira utilização
+            Database.Migrate(); //Cria banco de dados caso não exista com esquema migration
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) 
