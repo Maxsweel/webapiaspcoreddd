@@ -14,6 +14,7 @@ namespace DomainLib.Interfaces
         Task<T> InsertAsync(T Item);
         Task<T> UpdateAsync(T Item);
         Task<bool> DeleteAsync(Guid id);
+        Task<bool> ExistAsync(Guid id);
 
     }
 }
