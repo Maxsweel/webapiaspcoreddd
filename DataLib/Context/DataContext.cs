@@ -1,4 +1,5 @@
-﻿using DomainLib.Entitys;
+﻿using DataLib.Mapping;
+using DomainLib.Entitys;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -15,6 +16,7 @@ namespace DataLib.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder) 
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<UserEntity>(new UserMap().Configure);
         }
     }
 }
