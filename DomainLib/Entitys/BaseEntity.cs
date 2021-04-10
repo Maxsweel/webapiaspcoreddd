@@ -11,6 +11,7 @@ namespace DomainLib.Entitys
     {
         [Key]
         public Guid id { get; set; }
+        //public int id { get; set; }//neste projeto estaremos usando o Guid no lugar do int
 
         private DateTime? _createAt;
 
