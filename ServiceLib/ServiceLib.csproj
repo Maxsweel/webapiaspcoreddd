@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CrossCuttingLib\CrossCuttingLib.csproj" />
     <ProjectReference Include="..\DataLib\DataLib.csproj" />
     <ProjectReference Include="..\DomainLib\DomainLib.csproj" />
   </ItemGroup>

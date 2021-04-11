@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v5.0": {
       "ServiceLib/1.0.0": {
         "dependencies": {
-          "CrossCuttingLib": "1.0.0",
           "DataLib": "1.0.0",
           "DomainLib": "1.0.0"
         },
@@ -198,11 +197,6 @@
       "System.Collections.Immutable/5.0.0-rc.2.20475.5": {},
       "System.ComponentModel.Annotations/5.0.0-rc.2.20475.5": {},
       "System.Diagnostics.DiagnosticSource/5.0.0-rc.2.20475.5": {},
-      "CrossCuttingLib/1.0.0": {
-        "runtime": {
-          "CrossCuttingLib.dll": {}
-        }
-      },
       "DataLib/1.0.0": {
         "dependencies": {
           "DomainLib": "1.0.0",
@@ -371,11 +365,6 @@
       "sha512": "sha512-Ya6Fu/JamWHwPdN+qK4YQs1jyXOYmEveq4WhdB+x/t7l5PSjpinx91OGjmi9iiUtzCQKHgRrWhXxvA2IDtvc/A==",
       "path": "system.diagnostics.diagnosticsource/5.0.0-rc.2.20475.5",
       "hashPath": "system.diagnostics.diagnosticsource.5.0.0-rc.2.20475.5.nupkg.sha512"
-    },
-    "CrossCuttingLib/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "DataLib/1.0.0": {
       "type": "project",

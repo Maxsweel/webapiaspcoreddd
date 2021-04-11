@@ -317,6 +317,11 @@
       "CrossCuttingLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DataLib": "1.0.0",
+          "DomainLib": "1.0.0",
+          "ServiceLib": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CrossCuttingLib.dll": {}
         },
@@ -352,7 +357,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "CrossCuttingLib": "1.0.0",
           "DataLib": "1.0.0",
           "DomainLib": "1.0.0"
         },

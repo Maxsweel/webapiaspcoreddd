@@ -534,6 +534,11 @@
       "System.ComponentModel.Annotations/5.0.0-rc.2.20475.5": {},
       "System.Diagnostics.DiagnosticSource/5.0.0-rc.2.20475.5": {},
       "CrossCuttingLib/1.0.0": {
+        "dependencies": {
+          "DataLib": "1.0.0",
+          "DomainLib": "1.0.0",
+          "ServiceLib": "1.0.0"
+        },
         "runtime": {
           "CrossCuttingLib.dll": {}
         },
@@ -563,7 +568,6 @@
       },
       "ServiceLib/1.0.0": {
         "dependencies": {
-          "CrossCuttingLib": "1.0.0",
           "DataLib": "1.0.0",
           "DomainLib": "1.0.0"
         },

@@ -108,7 +108,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj": {
+                "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj"
+              },
+              "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DomainLib\\DomainLib.csproj": {
+                "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DomainLib\\DomainLib.csproj"
+              },
+              "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\ServiceLib\\ServiceLib.csproj": {
+                "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\ServiceLib\\ServiceLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -305,9 +315,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\CrossCuttingLib\\CrossCuttingLib.csproj": {
-                "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\CrossCuttingLib\\CrossCuttingLib.csproj"
-              },
               "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj": {
                 "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj"
               },

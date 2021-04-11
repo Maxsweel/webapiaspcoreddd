@@ -240,16 +240,6 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "CrossCuttingLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/CrossCuttingLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CrossCuttingLib.dll": {}
-        }
-      },
       "DataLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -821,11 +811,6 @@
         "version.txt"
       ]
     },
-    "CrossCuttingLib/1.0.0": {
-      "type": "project",
-      "path": "../CrossCuttingLib/CrossCuttingLib.csproj",
-      "msbuildProject": "../CrossCuttingLib/CrossCuttingLib.csproj"
-    },
     "DataLib/1.0.0": {
       "type": "project",
       "path": "../DataLib/DataLib.csproj",
@@ -839,7 +824,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "CrossCuttingLib >= 1.0.0",
       "DataLib >= 1.0.0",
       "DomainLib >= 1.0.0"
     ]
@@ -876,9 +860,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\CrossCuttingLib\\CrossCuttingLib.csproj": {
-              "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\CrossCuttingLib\\CrossCuttingLib.csproj"
-            },
             "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj": {
               "projectPath": "D:\\server_asp\\API\\ApiVsEstudo\\ApiCoreDDD\\DataLib\\DataLib.csproj"
             },
