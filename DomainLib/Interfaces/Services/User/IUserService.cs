@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DomainLib.Interfaces.Services.User
 {
-    interface IUserService
+    public interface IUserService
     {
         Task<UserEntity> Get(Guid id);
         Task<IEnumerable<UserEntity>> GetAll();
