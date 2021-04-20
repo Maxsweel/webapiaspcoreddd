@@ -1,3 +1,4 @@
+using CrossCuttingLib.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -25,6 +26,9 @@ namespace Application
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            ConfigureService.ConfigureDependenciesService(services);//fazendo injeção de dependencia em crosscutting/dependencyinjection/configureservice
+            ConfigureRepository.ConfigureDependenciesRepository(services); //injeção de dependencia 
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

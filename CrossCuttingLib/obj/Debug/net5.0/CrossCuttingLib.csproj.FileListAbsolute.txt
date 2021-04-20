@@ -2,13 +2,6 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossC
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossCuttingLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\ref\CrossCuttingLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\CrossCuttingLib.pdb
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.GeneratedMSBuildEditorConfig.editorconfig
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfoInputs.cache
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfo.cs
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csproj.CoreCompileInputs.cache
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.dll
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\ref\CrossCuttingLib.dll
-D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.pdb
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\DataLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\DomainLib.dll
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\ServiceLib.dll
@@ -16,4 +9,11 @@ D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\DataLi
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\DomainLib.pdb
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\bin\Debug\net5.0\ServiceLib.pdb
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csprojAssemblyReference.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfoInputs.cache
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.AssemblyInfo.cs
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csproj.CoreCompileInputs.cache
 D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.csproj.CopyComplete
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\ref\CrossCuttingLib.dll
+D:\server_asp\API\ApiVsEstudo\ApiCoreDDD\CrossCuttingLib\obj\Debug\net5.0\CrossCuttingLib.pdb
