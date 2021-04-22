@@ -33,8 +33,33 @@ namespace Application
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Application", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { 
+                    Title = "API whith DDD", 
+                    Version = "v1", 
+                    Description = "Aplicação em DDD", 
+                    TermsOfService = new Uri ("https://maxgi.com.br/termoapiddd"),
+                Contact = new OpenApiContact 
+                { 
+                    Name = "Maxsweel Rodrigues de Souza",
+                    Email = "maxsweel@hotmail.com",
+                    Url = new Uri("https://maxgi.com.br")
+                },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Termo de licença",
+                        Url = new Uri("https://maxgi.com.br/termolicenca")
+                    }
+                
+                });
             });
+            
+
+            /*
+             * Configuração padrão Swagger 
+             * services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Application", Version = "v1" });
+            });*/
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
