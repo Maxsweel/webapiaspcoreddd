@@ -3,7 +3,7 @@
 
 
 ### About me
-Sou Dev fullstack {backend, frontend} e desenvolvedor de sistemas web/desktop em constante evolução. Estamos trabalhando neste projeto com varias apis [@Workingonit](https://www.maxgi.com.br/)
+Sou Dev fullstack {backend, frontend} desenvolvendo sistemas web/desktop em constante evolução. Estamos trabalhando neste projeto com varias apis [@Workingonit](https://www.maxgi.com.br/)
 
 - [Cursos](https://www.iecc-es.org.br/) 👨🏼‍🏫 - Oferecemos cursos variados em TI - Working on it.
 - [Blog](https://www.maxgi.com.br/blog/author/Maxsweel/) ✍🏼 - Tudo sobre TI - Working on it .
